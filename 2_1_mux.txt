@@ -1,6 +1,0 @@
-inputs s0 a b
-output f
-s0_not = s0 nand s0
-and_a = a and s0_not
-and_b = b and s0
-f = and_a or and_b
