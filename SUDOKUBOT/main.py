@@ -2,6 +2,12 @@ import sys
 import copy
 # from termcolor import colored
 
+# open log for documenting moves
+command_log = open("sudoku_bot.log", "w")
+# global_area = ""
+# global_row_position = 0
+# global_col_position = 0
+# global_command = ""
 
 # Puzzle starts out with range of values 1-9 in each square, as all values are possible in an empty board
 puzzle = [[range(1, 10), range(1, 10), range(1, 10), range(1, 10), range(1, 10), range(1, 10), range(1, 10), range(1, 10), range(1, 10)], 
@@ -54,6 +60,7 @@ def check_line(line):
         if ( len(bn) > 1 ):
             for removal in removals:
                 if removal in bn:
+                    command_log.write("rm -> n: " + str(removal) + " from bn " + str(line.index(bn)) + "\n")
                     bn.remove(removal)
 
     # If a number is only at a single index, that index is set to that number exclusively
@@ -99,8 +106,10 @@ def full_check():
 
         check_line(row)
         i += 1
-
     
+    region_rowcol_solve()
+
+def region_rowcol_solve():
     # Use possibilities that are in single rows or cols to eliminate possibilities in other squares
     # The single row/col check should be done on all squares, removing possibilities from all other squares in the same row/col.    
     for i in range(9):
@@ -151,11 +160,14 @@ def print_puzzle(display_code):
                 # Colours predefined squares white
                 # if ( puzzle_mask[mask_counter] == 1 ):
                     # sys.stdout.write( colored(str(col[0]), 'white') )
+
                 # Colours solved squares green
                 # if ( puzzle_mask[mask_counter] == 2 ):
                     # sys.stdout.write( colored(str(col[0]), 'green') )
+
                 # Colours newly solved squares red, sets their mask to solved
                 if ( puzzle_mask[mask_counter] == 0 ):
+                    command_log.write("sol -> r: " + str(puzzle.index(row)) + " c: " + str(row.index(col)) + " n: " + str(col[0]) + "\n" )
                     # sys.stdout.write( colored(str(col[0]), 'red') )
                     puzzle_mask[mask_counter] = 2
                     
@@ -190,7 +202,30 @@ def check_solution_line( line ):
 
     return 1
 
+# def get_min_poss():
+#     min_poss = 9
+#     row = 0
+#     col = 0
+
+#     min_row = 0
+#     min_col = 0
+#     for row in puzzle:
+#         for bn in row:
+#             if ( len(bn) < min_poss ):
+#                 min_poss = len(bn)
+#                 min_row = row
+#                 min_col = col
+#             col += 1
+#         row += 1
+    
+#     return (min_poss, min_row, min_col)
+
+# def guess_num():
+#     start_point = get_min_poss()
+#     return 0
+
 def solve_puzzle( puzzle_list ):
+    command_log.write("\n\n\nSTARTING SOLVE ON NEW PUZZLE\n\n")
     create_puzzle( puzzle_list )
 
     # Keeps running checks til the puzzle is solved
@@ -216,11 +251,13 @@ def solve_puzzle( puzzle_list ):
             print "UNSOLVABLE!"
             print_puzzle(0)
             return
+            # guess_num()
 
     if ( check_solution() ):
         print "SOLVED!\n\n"
     else :
         print "ERROR!\n\n"
+
 
 
 puzzle_list_2018_07_29 = [0,0,9,0,0,2,0,0,0,0,0,1,0,0,0,8,0,0,0,6,0,3,0,0,0,4,1,6,0,0,0,8,0,9,0,0,0,0,0,4,2,5,0,0,0,0,0,3,0,6,0,0,0,8,3,5,0,0,0,7,0,2,0,0,0,8,0,0,0,4,0,0,0,0,0,5,0,0,6,0,0]
@@ -240,3 +277,10 @@ solve_puzzle(puzzle_list_2018_08_09)
 
 puzzle_list_2018_09_07 = [0,5,0,0,9,0,0,0,2,1,7,0,0,0,6,0,0,0,0,0,0,0,4,7,0,0,0,0,0,0,0,2,0,5,3,0,8,0,1,0,0,0,2,0,6,0,2,5,0,1,0,0,0,0,0,0,0,8,5,0,0,0,0,0,0,0,1,0,0,0,7,8,6,0,0,0,7,0,0,9,0]
 solve_puzzle(puzzle_list_2018_09_07)
+
+hardest_sudoku_puzzle = [8,0,0,0,0,0,0,0,0,0,0,3,6,0,0,0,0,0,0,7,0,0,9,0,2,0,0,0,5,0,0,0,7,0,0,0,0,0,0,0,4,5,7,0,0,0,0,0,1,0,0,0,3,0,0,0,1,0,0,0,0,6,8,0,0,8,5,0,0,0,1,0,0,9,0,0,0,0,4,0,0]
+solve_puzzle(hardest_sudoku_puzzle)
+command_log.close()
+
+
+

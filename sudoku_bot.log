@@ -1,0 +1,2787 @@
+
+
+
+STARTING SOLVE ON NEW PUZZLE
+
+rm const 9 from bn 0
+rm const 1 from bn 0
+rm const 6 from bn 0
+rm const 9 from bn 1
+rm const 1 from bn 1
+rm const 6 from bn 1
+rm const 9 from bn 3
+rm const 1 from bn 3
+rm const 6 from bn 3
+rm const 9 from bn 4
+rm const 1 from bn 4
+rm const 6 from bn 4
+rm const 9 from bn 6
+rm const 1 from bn 6
+rm const 6 from bn 6
+rm const 9 from bn 8
+rm const 1 from bn 8
+rm const 6 from bn 8
+rm const 3 from bn 0
+rm const 3 from bn 1
+rm const 3 from bn 2
+rm const 6 from bn 4
+rm const 3 from bn 4
+rm const 6 from bn 5
+rm const 3 from bn 5
+rm const 6 from bn 7
+rm const 3 from bn 7
+rm const 6 from bn 8
+rm const 3 from bn 8
+rm const 2 from bn 0
+rm const 2 from bn 1
+rm const 9 from bn 3
+rm const 2 from bn 3
+rm const 9 from bn 4
+rm const 2 from bn 4
+rm const 9 from bn 6
+rm const 2 from bn 6
+rm const 9 from bn 7
+rm const 2 from bn 7
+rm const 9 from bn 8
+rm const 2 from bn 8
+rm const 3 from bn 0
+rm const 3 from bn 1
+rm const 2 from bn 3
+rm const 3 from bn 3
+rm const 2 from bn 4
+rm const 3 from bn 4
+rm const 2 from bn 5
+rm const 3 from bn 5
+rm const 2 from bn 7
+rm const 3 from bn 7
+rm const 2 from bn 8
+rm const 3 from bn 8
+rm const 5 from bn 0
+rm const 5 from bn 1
+rm const 6 from bn 3
+rm const 5 from bn 3
+rm const 6 from bn 4
+rm const 5 from bn 4
+rm const 6 from bn 5
+rm const 5 from bn 5
+rm const 6 from bn 7
+rm const 5 from bn 7
+rm const 6 from bn 8
+rm const 5 from bn 8
+rm const 8 from bn 0
+rm const 8 from bn 1
+rm const 1 from bn 3
+rm const 8 from bn 3
+rm const 1 from bn 4
+rm const 8 from bn 4
+rm const 1 from bn 5
+rm const 8 from bn 5
+rm const 1 from bn 7
+rm const 8 from bn 7
+rm const 1 from bn 8
+rm const 8 from bn 8
+rm const 8 from bn 0
+rm const 4 from bn 0
+rm const 1 from bn 0
+rm const 8 from bn 1
+rm const 4 from bn 1
+rm const 1 from bn 1
+rm const 8 from bn 2
+rm const 4 from bn 2
+rm const 1 from bn 2
+rm const 4 from bn 4
+rm const 4 from bn 5
+rm const 8 from bn 6
+rm const 4 from bn 6
+rm const 1 from bn 6
+rm const 3 from bn 2
+rm const 8 from bn 2
+rm const 9 from bn 3
+rm const 1 from bn 3
+rm const 3 from bn 3
+rm const 8 from bn 3
+rm const 9 from bn 4
+rm const 1 from bn 4
+rm const 3 from bn 4
+rm const 8 from bn 4
+rm const 9 from bn 6
+rm const 1 from bn 6
+rm const 3 from bn 6
+rm const 8 from bn 6
+rm const 9 from bn 8
+rm const 1 from bn 8
+rm const 3 from bn 8
+rm const 8 from bn 8
+rm const 4 from bn 0
+rm const 4 from bn 2
+rm const 6 from bn 4
+rm const 4 from bn 4
+rm const 1 from bn 4
+rm const 6 from bn 5
+rm const 4 from bn 5
+rm const 1 from bn 5
+rm const 6 from bn 6
+rm const 3 from bn 6
+rm const 3 from bn 1
+rm const 6 from bn 2
+rm const 3 from bn 4
+rm const 6 from bn 5
+rm const 3 from bn 7
+rm const 4 from bn 0
+rm const 5 from bn 0
+rm const 4 from bn 1
+rm const 5 from bn 1
+rm const 3 from bn 3
+rm const 4 from bn 3
+rm const 5 from bn 3
+rm const 3 from bn 5
+rm const 4 from bn 5
+rm const 5 from bn 5
+rm const 3 from bn 6
+rm const 4 from bn 6
+rm const 5 from bn 6
+rm const 3 from bn 7
+rm const 4 from bn 7
+rm const 5 from bn 7
+rm const 8 from bn 1
+rm const 9 from bn 1
+rm const 6 from bn 3
+rm const 8 from bn 3
+rm const 9 from bn 3
+rm const 6 from bn 5
+rm const 8 from bn 5
+rm const 9 from bn 5
+rm const 6 from bn 7
+rm const 8 from bn 7
+rm const 9 from bn 7
+rm const 6 from bn 8
+rm const 8 from bn 8
+rm const 9 from bn 8
+rm const 2 from bn 0
+rm const 4 from bn 2
+rm const 2 from bn 2
+rm const 5 from bn 2
+rm const 8 from bn 6
+rm const 2 from bn 6
+rm const 6 from bn 6
+rm const 8 from bn 8
+rm const 4 from bn 8
+rm const 2 from bn 8
+rm const 5 from bn 8
+rm const 6 from bn 8
+rm const 8 from bn 0
+rm const 6 from bn 0
+rm const 6 from bn 1
+rm const 8 from bn 2
+rm const 8 from bn 6
+rm const 2 from bn 6
+rm const 6 from bn 6
+rm const 8 from bn 7
+rm const 2 from bn 7
+rm const 6 from bn 7
+rm const 8 from bn 8
+rm const 2 from bn 8
+rm const 6 from bn 8
+rm const 4 from bn 0
+rm const 2 from bn 0
+rm const 5 from bn 0
+rm const 4 from bn 1
+rm const 2 from bn 1
+rm const 4 from bn 2
+rm const 2 from bn 2
+rm const 5 from bn 2
+rm const 4 from bn 6
+rm const 2 from bn 6
+rm const 5 from bn 6
+rm const 4 from bn 7
+rm const 2 from bn 7
+rm const 5 from bn 7
+rm const 4 from bn 8
+rm const 2 from bn 8
+rm const 5 from bn 8
+rm const 9 from bn 3
+rm const 8 from bn 3
+rm const 9 from bn 4
+rm const 8 from bn 4
+rm const 9 from bn 5
+rm const 8 from bn 5
+rm const 9 from bn 6
+rm const 8 from bn 6
+rm const 9 from bn 7
+rm const 8 from bn 7
+rm const 5 from bn 1
+rm const 7 from bn 1
+rm const 5 from bn 2
+rm const 7 from bn 2
+rm const 7 from bn 3
+rm const 7 from bn 5
+rm const 2 from bn 7
+rm const 5 from bn 7
+rm const 7 from bn 7
+rm const 2 from bn 8
+rm const 5 from bn 8
+rm const 7 from bn 8
+rm const 8 from bn 0
+rm const 8 from bn 1
+rm const 3 from bn 5
+rm const 3 from bn 6
+rm const 6 from bn 6
+rm const 3 from bn 7
+rm const 6 from bn 7
+rm const 5 from bn 2
+rm const 5 from bn 3
+rm const 8 from bn 3
+rm const 3 from bn 4
+rm const 8 from bn 4
+rm const 5 from bn 6
+rm const 8 from bn 6
+rm const 3 from bn 7
+rm const 8 from bn 7
+rm const 5 from bn 8
+rm const 6 from bn 0
+rm const 9 from bn 2
+rm const 6 from bn 4
+rm const 4 from bn 5
+rm const 8 from bn 6
+rm const 9 from bn 6
+rm const 4 from bn 6
+rm const 6 from bn 6
+rm const 7 from bn 2
+rm const 2 from bn 2
+rm const 7 from bn 3
+rm const 2 from bn 3
+rm const 3 from bn 4
+rm const 5 from bn 4
+rm const 7 from bn 4
+rm const 3 from bn 6
+rm const 5 from bn 6
+rm const 7 from bn 6
+rm const 2 from bn 6
+rm const 3 from bn 8
+rm const 5 from bn 8
+rm const 7 from bn 8
+rm const 2 from bn 8
+rm const 7 from bn 3
+rm const 7 from bn 4
+rm const 5 from bn 4
+rm const 7 from bn 7
+rm const 5 from bn 7
+rm const 2 from bn 1
+rm const 4 from bn 3
+rm const 2 from bn 3
+rm const 4 from bn 5
+rm const 2 from bn 5
+rm const 4 from bn 7
+rm const 2 from bn 7
+rm const 4 from bn 8
+rm const 2 from bn 8
+rm const 4 from bn 0
+rm const 4 from bn 1
+rm const 8 from bn 3
+rm const 4 from bn 4
+rm const 8 from bn 5
+rm const 4 from bn 5
+rm const 8 from bn 7
+rm const 8 from bn 8
+rm const 4 from bn 8
+rm const 1 from bn 2
+rm const 4 from bn 2
+rm const 6 from bn 2
+rm const 1 from bn 4
+rm const 6 from bn 4
+rm const 1 from bn 5
+rm const 2 from bn 5
+rm const 6 from bn 5
+rm const 1 from bn 7
+rm const 6 from bn 7
+rm const 1 from bn 8
+rm const 2 from bn 8
+rm const 4 from bn 8
+rm const 6 from bn 8
+rm const 1 from bn 3
+rm const 1 from bn 4
+rm const 8 from bn 6
+rm const 8 from bn 8
+rm const 6 from bn 2
+rm const 6 from bn 5
+rm const 5 from bn 7
+rm const 5 from bn 8
+solved row : 1 col : 3 num : 6
+solved row : 4 col : 2 num : 7
+solved row : 6 col : 6 num : 1
+solved row : 6 col : 8 num : 9
+rm const 6 from bn 0
+rm const 6 from bn 5
+rm const 4 from bn 0
+rm const 4 from bn 1
+rm const 4 from bn 4
+rm const 6 from bn 7
+rm const 6 from bn 8
+rm const 7 from bn 2
+rm const 7 from bn 3
+rm const 7 from bn 8
+rm const 7 from bn 1
+rm const 7 from bn 3
+rm const 7 from bn 4
+rm const 7 from bn 6
+rm const 7 from bn 7
+rm const 6 from bn 7
+rm const 7 from bn 6
+rm const 7 from bn 7
+rm const 7 from bn 8
+rm const 3 from bn 4
+rm const 3 from bn 5
+rm const 4 from bn 8
+rm const 3 from bn 0
+rm const 9 from bn 3
+rm const 9 from bn 4
+rm const 4 from bn 7
+rm const 9 from bn 4
+rm const 9 from bn 5
+rm const 9 from bn 7
+rm const 9 from bn 8
+rm const 6 from bn 0
+rm const 9 from bn 1
+solved row : 0 col : 3 num : 1
+solved row : 1 col : 5 num : 4
+solved row : 3 col : 5 num : 3
+solved row : 3 col : 8 num : 4
+solved row : 4 col : 6 num : 3
+solved row : 4 col : 7 num : 1
+solved row : 4 col : 8 num : 6
+solved row : 6 col : 2 num : 6
+solved row : 6 col : 3 num : 8
+solved row : 6 col : 4 num : 4
+solved row : 7 col : 3 num : 2
+solved row : 7 col : 5 num : 6
+solved row : 8 col : 7 num : 8
+rm const 1 from bn 4
+rm const 1 from bn 3
+rm const 1 from bn 5
+rm const 7 from bn 7
+rm const 7 from bn 6
+rm const 1 from bn 0
+rm const 1 from bn 1
+rm const 1 from bn 1
+rm const 1 from bn 7
+rm const 9 from bn 5
+rm const 5 from bn 7
+rm const 7 from bn 7
+rm const 3 from bn 4
+rm const 3 from bn 8
+rm const 3 from bn 8
+rm const 5 from bn 0
+rm const 7 from bn 0
+rm const 5 from bn 1
+rm const 7 from bn 1
+rm const 7 from bn 0
+rm const 7 from bn 1
+solved row : 0 col : 7 num : 6
+solved row : 0 col : 8 num : 3
+solved row : 1 col : 7 num : 9
+solved row : 3 col : 2 num : 2
+solved row : 3 col : 3 num : 7
+solved row : 3 col : 7 num : 5
+solved row : 5 col : 1 num : 4
+solved row : 5 col : 3 num : 9
+solved row : 5 col : 5 num : 1
+solved row : 5 col : 6 num : 2
+solved row : 5 col : 7 num : 7
+solved row : 7 col : 7 num : 3
+solved row : 7 col : 8 num : 5
+solved row : 8 col : 4 num : 3
+solved row : 8 col : 5 num : 9
+solved row : 8 col : 8 num : 7
+rm const 3 from bn 1
+rm const 4 from bn 0
+rm const 4 from bn 8
+rm const 2 from bn 2
+rm const 2 from bn 8
+rm const 5 from bn 0
+rm const 5 from bn 4
+rm const 5 from bn 6
+rm const 2 from bn 1
+rm const 4 from bn 6
+rm const 9 from bn 7
+rm const 4 from bn 6
+rm const 7 from bn 0
+rm const 9 from bn 0
+rm const 9 from bn 1
+solved row : 0 col : 4 num : 7
+solved row : 0 col : 6 num : 5
+solved row : 1 col : 0 num : 7
+solved row : 1 col : 1 num : 3
+solved row : 1 col : 8 num : 2
+solved row : 2 col : 0 num : 2
+solved row : 2 col : 2 num : 5
+solved row : 2 col : 4 num : 9
+solved row : 2 col : 5 num : 8
+solved row : 2 col : 6 num : 7
+solved row : 3 col : 1 num : 1
+solved row : 5 col : 0 num : 5
+solved row : 7 col : 4 num : 1
+solved row : 8 col : 0 num : 1
+solved row : 8 col : 1 num : 2
+solved row : 8 col : 2 num : 4
+rm const 7 from bn 0
+rm const 7 from bn 1
+rm const 7 from bn 7
+rm const 8 from bn 0
+rm const 7 from bn 4
+rm const 8 from bn 4
+rm const 9 from bn 3
+rm const 9 from bn 4
+solved row : 0 col : 0 num : 4
+solved row : 0 col : 1 num : 8
+solved row : 1 col : 4 num : 5
+solved row : 4 col : 0 num : 8
+solved row : 4 col : 1 num : 9
+solved row : 7 col : 0 num : 9
+solved row : 7 col : 1 num : 7
+
+
+
+STARTING SOLVE ON NEW PUZZLE
+
+rm const 5 from bn 0
+rm const 8 from bn 0
+rm const 2 from bn 0
+rm const 3 from bn 0
+rm const 5 from bn 1
+rm const 8 from bn 1
+rm const 2 from bn 1
+rm const 3 from bn 1
+rm const 5 from bn 3
+rm const 8 from bn 3
+rm const 2 from bn 3
+rm const 3 from bn 3
+rm const 5 from bn 5
+rm const 8 from bn 5
+rm const 2 from bn 5
+rm const 3 from bn 5
+rm const 5 from bn 8
+rm const 8 from bn 8
+rm const 2 from bn 8
+rm const 3 from bn 8
+rm const 4 from bn 0
+rm const 4 from bn 1
+rm const 2 from bn 4
+rm const 4 from bn 4
+rm const 2 from bn 5
+rm const 4 from bn 5
+rm const 2 from bn 6
+rm const 4 from bn 6
+rm const 2 from bn 7
+rm const 4 from bn 7
+rm const 2 from bn 8
+rm const 4 from bn 8
+rm const 7 from bn 0
+rm const 7 from bn 1
+rm const 5 from bn 4
+rm const 7 from bn 4
+rm const 2 from bn 4
+rm const 5 from bn 6
+rm const 7 from bn 6
+rm const 2 from bn 6
+rm const 5 from bn 7
+rm const 7 from bn 7
+rm const 2 from bn 7
+rm const 5 from bn 8
+rm const 7 from bn 8
+rm const 2 from bn 8
+rm const 4 from bn 1
+rm const 7 from bn 3
+rm const 2 from bn 3
+rm const 4 from bn 3
+rm const 5 from bn 3
+rm const 7 from bn 4
+rm const 2 from bn 4
+rm const 4 from bn 4
+rm const 5 from bn 4
+rm const 7 from bn 6
+rm const 2 from bn 6
+rm const 4 from bn 6
+rm const 5 from bn 6
+rm const 7 from bn 8
+rm const 2 from bn 8
+rm const 4 from bn 8
+rm const 5 from bn 8
+rm const 8 from bn 3
+rm const 3 from bn 3
+rm const 8 from bn 4
+rm const 3 from bn 4
+rm const 8 from bn 5
+rm const 3 from bn 5
+rm const 8 from bn 6
+rm const 3 from bn 6
+rm const 8 from bn 7
+rm const 3 from bn 7
+rm const 8 from bn 8
+rm const 3 from bn 8
+rm const 1 from bn 0
+rm const 4 from bn 2
+rm const 1 from bn 2
+rm const 8 from bn 3
+rm const 1 from bn 3
+rm const 8 from bn 4
+rm const 1 from bn 4
+rm const 8 from bn 7
+rm const 4 from bn 7
+rm const 1 from bn 7
+rm const 8 from bn 8
+rm const 4 from bn 8
+rm const 1 from bn 8
+rm const 1 from bn 0
+rm const 1 from bn 1
+rm const 1 from bn 2
+rm const 1 from bn 6
+rm const 1 from bn 7
+rm const 1 from bn 8
+rm const 7 from bn 1
+rm const 6 from bn 1
+rm const 7 from bn 2
+rm const 6 from bn 2
+rm const 4 from bn 2
+rm const 5 from bn 3
+rm const 7 from bn 3
+rm const 6 from bn 3
+rm const 4 from bn 3
+rm const 5 from bn 6
+rm const 7 from bn 6
+rm const 6 from bn 6
+rm const 4 from bn 6
+rm const 5 from bn 8
+rm const 7 from bn 8
+rm const 6 from bn 8
+rm const 4 from bn 8
+rm const 3 from bn 3
+rm const 3 from bn 5
+rm const 2 from bn 6
+rm const 3 from bn 6
+rm const 5 from bn 6
+rm const 2 from bn 7
+rm const 3 from bn 7
+rm const 5 from bn 7
+rm const 2 from bn 8
+rm const 3 from bn 8
+rm const 5 from bn 8
+rm const 4 from bn 1
+rm const 7 from bn 1
+rm const 6 from bn 1
+rm const 7 from bn 3
+rm const 6 from bn 3
+rm const 4 from bn 4
+rm const 7 from bn 4
+rm const 6 from bn 4
+rm const 7 from bn 6
+rm const 6 from bn 6
+rm const 4 from bn 7
+rm const 7 from bn 7
+rm const 6 from bn 7
+rm const 9 from bn 1
+rm const 9 from bn 2
+rm const 1 from bn 2
+rm const 7 from bn 4
+rm const 2 from bn 4
+rm const 9 from bn 4
+rm const 1 from bn 4
+rm const 7 from bn 5
+rm const 2 from bn 5
+rm const 9 from bn 5
+rm const 1 from bn 5
+rm const 7 from bn 6
+rm const 2 from bn 6
+rm const 9 from bn 6
+rm const 1 from bn 6
+rm const 2 from bn 1
+rm const 2 from bn 2
+rm const 8 from bn 2
+rm const 4 from bn 4
+rm const 2 from bn 4
+rm const 8 from bn 4
+rm const 4 from bn 5
+rm const 2 from bn 5
+rm const 8 from bn 5
+rm const 4 from bn 7
+rm const 2 from bn 7
+rm const 8 from bn 7
+rm const 4 from bn 8
+rm const 2 from bn 8
+rm const 8 from bn 8
+rm const 1 from bn 1
+rm const 1 from bn 2
+rm const 8 from bn 3
+rm const 2 from bn 5
+rm const 8 from bn 5
+rm const 1 from bn 5
+rm const 8 from bn 6
+rm const 2 from bn 7
+rm const 8 from bn 7
+rm const 1 from bn 7
+rm const 8 from bn 0
+rm const 5 from bn 3
+rm const 7 from bn 3
+rm const 5 from bn 5
+rm const 7 from bn 5
+rm const 5 from bn 7
+rm const 8 from bn 7
+rm const 7 from bn 7
+rm const 5 from bn 8
+rm const 8 from bn 8
+rm const 7 from bn 8
+rm const 8 from bn 0
+rm const 3 from bn 0
+rm const 3 from bn 3
+rm const 7 from bn 5
+rm const 3 from bn 5
+rm const 7 from bn 7
+rm const 8 from bn 7
+rm const 3 from bn 7
+rm const 7 from bn 8
+rm const 8 from bn 8
+rm const 3 from bn 8
+rm const 3 from bn 1
+rm const 7 from bn 1
+rm const 3 from bn 2
+rm const 7 from bn 2
+rm const 8 from bn 6
+rm const 3 from bn 6
+rm const 7 from bn 6
+rm const 8 from bn 7
+rm const 3 from bn 7
+rm const 7 from bn 7
+rm const 1 from bn 2
+rm const 8 from bn 2
+rm const 4 from bn 4
+rm const 2 from bn 6
+rm const 4 from bn 6
+rm const 1 from bn 6
+rm const 8 from bn 6
+rm const 2 from bn 7
+rm const 4 from bn 7
+rm const 1 from bn 7
+rm const 8 from bn 7
+rm const 1 from bn 0
+rm const 1 from bn 1
+rm const 6 from bn 3
+rm const 6 from bn 4
+rm const 6 from bn 6
+rm const 1 from bn 6
+rm const 6 from bn 7
+rm const 1 from bn 7
+rm const 4 from bn 1
+rm const 4 from bn 4
+rm const 4 from bn 7
+rm const 8 from bn 0
+rm const 3 from bn 0
+rm const 4 from bn 0
+rm const 8 from bn 2
+rm const 4 from bn 2
+rm const 4 from bn 5
+rm const 1 from bn 6
+rm const 8 from bn 6
+rm const 3 from bn 6
+rm const 4 from bn 6
+rm const 1 from bn 7
+rm const 8 from bn 7
+rm const 3 from bn 7
+rm const 4 from bn 7
+rm const 7 from bn 0
+rm const 1 from bn 0
+rm const 5 from bn 0
+rm const 7 from bn 1
+rm const 1 from bn 1
+rm const 5 from bn 1
+rm const 1 from bn 2
+rm const 5 from bn 3
+rm const 7 from bn 5
+rm const 5 from bn 5
+rm const 7 from bn 6
+rm const 5 from bn 6
+rm const 9 from bn 2
+rm const 4 from bn 4
+rm const 9 from bn 4
+rm const 1 from bn 4
+rm const 7 from bn 5
+rm const 9 from bn 5
+rm const 4 from bn 7
+rm const 9 from bn 7
+rm const 1 from bn 7
+rm const 8 from bn 0
+rm const 8 from bn 2
+rm const 1 from bn 3
+rm const 1 from bn 4
+rm const 1 from bn 8
+rm const 8 from bn 8
+rm const 9 from bn 0
+rm const 8 from bn 0
+rm const 9 from bn 1
+rm const 9 from bn 6
+rm const 4 from bn 8
+rm const 9 from bn 8
+rm const 8 from bn 8
+rm const 5 from bn 3
+rm const 1 from bn 5
+rm const 5 from bn 5
+rm const 5 from bn 7
+rm const 4 from bn 7
+rm const 1 from bn 8
+rm const 5 from bn 8
+rm const 8 from bn 8
+rm const 4 from bn 8
+rm const 7 from bn 1
+rm const 5 from bn 1
+rm const 7 from bn 2
+rm const 5 from bn 3
+rm const 5 from bn 4
+rm const 7 from bn 7
+rm const 7 from bn 8
+rm const 1 from bn 0
+rm const 8 from bn 0
+rm const 1 from bn 1
+rm const 1 from bn 2
+rm const 8 from bn 2
+solved row : 1 col : 2 num : 9
+solved row : 5 col : 0 num : 8
+solved row : 5 col : 3 num : 3
+solved row : 6 col : 3 num : 4
+rm const 9 from bn 0
+rm const 9 from bn 1
+rm const 9 from bn 3
+rm const 9 from bn 8
+rm const 6 from bn 1
+rm const 6 from bn 6
+rm const 6 from bn 7
+rm const 6 from bn 8
+rm const 6 from bn 1
+rm const 6 from bn 4
+rm const 6 from bn 6
+rm const 6 from bn 7
+rm const 6 from bn 8
+rm const 9 from bn 4
+rm const 9 from bn 7
+rm const 9 from bn 8
+rm const 9 from bn 1
+rm const 9 from bn 6
+rm const 9 from bn 7
+rm const 9 from bn 8
+rm const 9 from bn 3
+rm const 1 from bn 3
+rm const 9 from bn 6
+rm const 9 from bn 8
+rm const 3 from bn 1
+rm const 3 from bn 7
+rm const 9 from bn 4
+rm const 2 from bn 2
+rm const 9 from bn 6
+rm const 3 from bn 8
+rm const 2 from bn 3
+rm const 2 from bn 5
+rm const 2 from bn 7
+rm const 2 from bn 8
+rm const 2 from bn 4
+solved row : 0 col : 0 num : 6
+solved row : 0 col : 1 num : 4
+solved row : 0 col : 4 num : 1
+solved row : 0 col : 6 num : 9
+solved row : 0 col : 7 num : 3
+solved row : 0 col : 8 num : 8
+solved row : 1 col : 0 num : 7
+solved row : 1 col : 3 num : 6
+solved row : 1 col : 7 num : 5
+solved row : 1 col : 8 num : 2
+solved row : 2 col : 2 num : 1
+solved row : 2 col : 3 num : 8
+solved row : 2 col : 5 num : 9
+solved row : 3 col : 1 num : 5
+solved row : 3 col : 2 num : 3
+solved row : 3 col : 5 num : 7
+solved row : 4 col : 5 num : 6
+solved row : 5 col : 6 num : 5
+solved row : 6 col : 0 num : 9
+solved row : 6 col : 2 num : 8
+solved row : 6 col : 6 num : 2
+solved row : 7 col : 5 num : 5
+solved row : 8 col : 2 num : 2
+solved row : 8 col : 4 num : 6
+rm const 9 from bn 4
+rm const 6 from bn 4
+rm const 5 from bn 8
+rm const 1 from bn 4
+rm const 6 from bn 4
+rm const 6 from bn 1
+rm const 9 from bn 5
+rm const 6 from bn 7
+rm const 6 from bn 7
+rm const 6 from bn 8
+rm const 6 from bn 6
+rm const 9 from bn 1
+rm const 6 from bn 1
+rm const 6 from bn 7
+rm const 6 from bn 8
+solved row : 1 col : 4 num : 3
+solved row : 3 col : 4 num : 9
+solved row : 3 col : 7 num : 6
+solved row : 3 col : 8 num : 1
+solved row : 4 col : 0 num : 1
+solved row : 4 col : 3 num : 5
+solved row : 5 col : 4 num : 4
+solved row : 6 col : 1 num : 6
+solved row : 6 col : 5 num : 3
+solved row : 7 col : 0 num : 3
+solved row : 7 col : 4 num : 2
+solved row : 7 col : 8 num : 6
+solved row : 8 col : 0 num : 5
+solved row : 8 col : 1 num : 7
+rm const 7 from bn 7
+rm const 6 from bn 6
+rm const 7 from bn 7
+rm const 6 from bn 2
+rm const 9 from bn 8
+solved row : 2 col : 6 num : 6
+solved row : 2 col : 8 num : 4
+solved row : 5 col : 7 num : 2
+solved row : 7 col : 1 num : 1
+solved row : 7 col : 6 num : 7
+solved row : 8 col : 7 num : 9
+solved row : 8 col : 8 num : 3
+rm const 4 from bn 7
+rm const 2 from bn 4
+rm const 2 from bn 1
+rm const 4 from bn 4
+solved row : 2 col : 7 num : 7
+solved row : 4 col : 1 num : 2
+solved row : 4 col : 7 num : 4
+solved row : 4 col : 8 num : 9
+solved row : 5 col : 1 num : 9
+
+
+
+STARTING SOLVE ON NEW PUZZLE
+
+rm const 6 from bn 0
+rm const 1 from bn 0
+rm const 9 from bn 0
+rm const 5 from bn 0
+rm const 6 from bn 4
+rm const 1 from bn 4
+rm const 9 from bn 4
+rm const 5 from bn 4
+rm const 6 from bn 5
+rm const 1 from bn 5
+rm const 9 from bn 5
+rm const 5 from bn 5
+rm const 6 from bn 7
+rm const 1 from bn 7
+rm const 9 from bn 7
+rm const 5 from bn 7
+rm const 6 from bn 8
+rm const 1 from bn 8
+rm const 9 from bn 8
+rm const 5 from bn 8
+rm const 8 from bn 0
+rm const 9 from bn 4
+rm const 5 from bn 4
+rm const 8 from bn 4
+rm const 9 from bn 5
+rm const 5 from bn 5
+rm const 8 from bn 5
+rm const 9 from bn 6
+rm const 5 from bn 6
+rm const 8 from bn 6
+rm const 9 from bn 7
+rm const 5 from bn 7
+rm const 8 from bn 7
+rm const 9 from bn 8
+rm const 5 from bn 8
+rm const 8 from bn 8
+rm const 6 from bn 4
+rm const 1 from bn 4
+rm const 9 from bn 4
+rm const 6 from bn 5
+rm const 1 from bn 5
+rm const 9 from bn 5
+rm const 6 from bn 6
+rm const 1 from bn 6
+rm const 9 from bn 6
+rm const 6 from bn 7
+rm const 1 from bn 7
+rm const 9 from bn 7
+rm const 6 from bn 8
+rm const 1 from bn 8
+rm const 9 from bn 8
+rm const 3 from bn 1
+rm const 2 from bn 1
+rm const 3 from bn 2
+rm const 2 from bn 2
+rm const 9 from bn 3
+rm const 3 from bn 3
+rm const 2 from bn 3
+rm const 1 from bn 3
+rm const 9 from bn 5
+rm const 3 from bn 5
+rm const 2 from bn 5
+rm const 1 from bn 5
+rm const 9 from bn 7
+rm const 3 from bn 7
+rm const 2 from bn 7
+rm const 1 from bn 7
+rm const 3 from bn 1
+rm const 8 from bn 1
+rm const 3 from bn 2
+rm const 8 from bn 2
+rm const 6 from bn 3
+rm const 3 from bn 3
+rm const 9 from bn 3
+rm const 8 from bn 3
+rm const 6 from bn 5
+rm const 3 from bn 5
+rm const 9 from bn 5
+rm const 8 from bn 5
+rm const 6 from bn 8
+rm const 3 from bn 8
+rm const 9 from bn 8
+rm const 8 from bn 8
+rm const 4 from bn 1
+rm const 3 from bn 2
+rm const 4 from bn 2
+rm const 4 from bn 3
+rm const 5 from bn 3
+rm const 4 from bn 5
+rm const 5 from bn 5
+rm const 9 from bn 8
+rm const 3 from bn 8
+rm const 4 from bn 8
+rm const 5 from bn 8
+rm const 4 from bn 0
+rm const 5 from bn 0
+rm const 4 from bn 1
+rm const 5 from bn 1
+rm const 4 from bn 2
+rm const 5 from bn 2
+rm const 4 from bn 6
+rm const 5 from bn 6
+rm const 1 from bn 6
+rm const 4 from bn 7
+rm const 5 from bn 7
+rm const 1 from bn 7
+rm const 4 from bn 8
+rm const 5 from bn 8
+rm const 1 from bn 8
+rm const 2 from bn 1
+rm const 2 from bn 2
+rm const 1 from bn 4
+rm const 9 from bn 4
+rm const 2 from bn 4
+rm const 1 from bn 6
+rm const 9 from bn 6
+rm const 2 from bn 6
+rm const 1 from bn 7
+rm const 9 from bn 7
+rm const 2 from bn 7
+rm const 1 from bn 8
+rm const 9 from bn 8
+rm const 2 from bn 8
+rm const 2 from bn 1
+rm const 5 from bn 4
+rm const 2 from bn 6
+rm const 2 from bn 7
+rm const 2 from bn 8
+rm const 2 from bn 1
+rm const 3 from bn 3
+rm const 2 from bn 3
+rm const 8 from bn 5
+rm const 3 from bn 5
+rm const 3 from bn 6
+rm const 2 from bn 6
+rm const 2 from bn 7
+rm const 9 from bn 3
+rm const 2 from bn 3
+rm const 5 from bn 3
+rm const 3 from bn 3
+rm const 9 from bn 6
+rm const 2 from bn 6
+rm const 5 from bn 6
+rm const 3 from bn 6
+rm const 9 from bn 7
+rm const 2 from bn 7
+rm const 5 from bn 7
+rm const 3 from bn 7
+rm const 9 from bn 8
+rm const 2 from bn 8
+rm const 5 from bn 8
+rm const 3 from bn 8
+rm const 1 from bn 1
+rm const 8 from bn 3
+rm const 1 from bn 3
+rm const 8 from bn 6
+rm const 9 from bn 6
+rm const 1 from bn 6
+rm const 2 from bn 6
+rm const 8 from bn 7
+rm const 9 from bn 7
+rm const 1 from bn 7
+rm const 2 from bn 7
+rm const 8 from bn 8
+rm const 9 from bn 8
+rm const 1 from bn 8
+rm const 2 from bn 8
+rm const 6 from bn 0
+rm const 7 from bn 0
+rm const 1 from bn 5
+rm const 2 from bn 5
+rm const 5 from bn 5
+rm const 6 from bn 5
+rm const 3 from bn 5
+rm const 7 from bn 5
+rm const 1 from bn 7
+rm const 2 from bn 7
+rm const 5 from bn 7
+rm const 6 from bn 7
+rm const 3 from bn 7
+rm const 7 from bn 7
+rm const 5 from bn 0
+rm const 6 from bn 2
+rm const 3 from bn 7
+rm const 1 from bn 7
+rm const 6 from bn 7
+rm const 5 from bn 7
+rm const 3 from bn 8
+rm const 1 from bn 8
+rm const 6 from bn 8
+rm const 5 from bn 8
+rm const 6 from bn 0
+rm const 5 from bn 2
+rm const 6 from bn 2
+rm const 3 from bn 7
+rm const 5 from bn 7
+rm const 6 from bn 7
+rm const 2 from bn 7
+rm const 3 from bn 8
+rm const 5 from bn 8
+rm const 6 from bn 8
+rm const 2 from bn 8
+rm const 9 from bn 4
+rm const 9 from bn 5
+rm const 2 from bn 7
+rm const 9 from bn 7
+rm const 2 from bn 8
+rm const 9 from bn 8
+rm const 7 from bn 0
+rm const 8 from bn 0
+rm const 7 from bn 1
+rm const 8 from bn 1
+rm const 8 from bn 4
+rm const 1 from bn 7
+rm const 2 from bn 7
+rm const 7 from bn 7
+rm const 8 from bn 7
+rm const 1 from bn 8
+rm const 2 from bn 8
+rm const 7 from bn 8
+rm const 8 from bn 8
+rm const 7 from bn 0
+rm const 7 from bn 1
+rm const 9 from bn 4
+rm const 3 from bn 7
+rm const 7 from bn 7
+rm const 3 from bn 8
+rm const 7 from bn 8
+rm const 8 from bn 2
+rm const 8 from bn 5
+rm const 8 from bn 8
+rm const 2 from bn 0
+rm const 7 from bn 0
+rm const 9 from bn 2
+rm const 7 from bn 2
+rm const 4 from bn 3
+rm const 7 from bn 3
+rm const 5 from bn 3
+rm const 4 from bn 6
+rm const 2 from bn 6
+rm const 9 from bn 6
+rm const 7 from bn 6
+rm const 5 from bn 6
+rm const 2 from bn 0
+rm const 6 from bn 0
+rm const 5 from bn 2
+rm const 6 from bn 2
+rm const 8 from bn 3
+rm const 6 from bn 3
+rm const 8 from bn 6
+rm const 6 from bn 6
+rm const 8 from bn 3
+rm const 8 from bn 4
+rm const 5 from bn 5
+rm const 8 from bn 6
+rm const 8 from bn 7
+rm const 5 from bn 8
+rm const 2 from bn 0
+rm const 3 from bn 0
+rm const 3 from bn 2
+rm const 5 from bn 3
+rm const 3 from bn 3
+rm const 5 from bn 5
+rm const 5 from bn 8
+rm const 2 from bn 8
+rm const 3 from bn 8
+rm const 7 from bn 0
+rm const 3 from bn 0
+rm const 7 from bn 2
+rm const 3 from bn 2
+rm const 7 from bn 3
+rm const 7 from bn 4
+rm const 3 from bn 5
+rm const 8 from bn 8
+rm const 7 from bn 8
+rm const 3 from bn 8
+rm const 3 from bn 0
+rm const 2 from bn 5
+rm const 6 from bn 5
+rm const 5 from bn 5
+rm const 6 from bn 7
+rm const 7 from bn 7
+rm const 2 from bn 8
+rm const 6 from bn 8
+rm const 7 from bn 8
+rm const 3 from bn 8
+rm const 5 from bn 8
+rm const 6 from bn 2
+rm const 6 from bn 3
+rm const 1 from bn 4
+rm const 1 from bn 5
+rm const 6 from bn 5
+rm const 1 from bn 7
+rm const 1 from bn 8
+rm const 5 from bn 1
+rm const 5 from bn 2
+solved row : 1 col : 5 num : 6
+solved row : 1 col : 8 num : 1
+solved row : 3 col : 3 num : 4
+solved row : 6 col : 6 num : 1
+rm const 6 from bn 3
+rm const 4 from bn 6
+rm const 4 from bn 7
+rm const 4 from bn 8
+rm const 4 from bn 1
+rm const 4 from bn 7
+rm const 4 from bn 8
+rm const 4 from bn 5
+rm const 4 from bn 7
+rm const 6 from bn 7
+rm const 6 from bn 8
+rm const 7 from bn 0
+rm const 7 from bn 2
+rm const 4 from bn 4
+rm const 7 from bn 6
+rm const 7 from bn 7
+rm const 4 from bn 7
+rm const 4 from bn 8
+rm const 4 from bn 0
+rm const 4 from bn 2
+rm const 4 from bn 8
+rm const 9 from bn 7
+rm const 9 from bn 8
+rm const 9 from bn 2
+solved row : 0 col : 5 num : 5
+solved row : 0 col : 8 num : 2
+solved row : 1 col : 1 num : 2
+solved row : 1 col : 2 num : 7
+solved row : 1 col : 3 num : 8
+solved row : 4 col : 5 num : 9
+solved row : 5 col : 0 num : 6
+solved row : 5 col : 4 num : 8
+solved row : 6 col : 3 num : 7
+solved row : 7 col : 0 num : 1
+solved row : 7 col : 2 num : 5
+solved row : 7 col : 3 num : 6
+solved row : 7 col : 4 num : 2
+solved row : 7 col : 5 num : 4
+solved row : 7 col : 8 num : 9
+solved row : 8 col : 1 num : 7
+solved row : 8 col : 3 num : 1
+solved row : 8 col : 4 num : 9
+solved row : 8 col : 5 num : 3
+rm const 7 from bn 0
+rm const 7 from bn 7
+rm const 7 from bn 8
+rm const 1 from bn 4
+rm const 7 from bn 3
+rm const 4 from bn 5
+rm const 7 from bn 4
+rm const 7 from bn 8
+rm const 4 from bn 2
+rm const 4 from bn 4
+rm const 4 from bn 3
+rm const 5 from bn 7
+rm const 5 from bn 8
+rm const 7 from bn 0
+rm const 7 from bn 7
+rm const 4 from bn 7
+rm const 7 from bn 8
+rm const 4 from bn 8
+rm const 1 from bn 7
+rm const 4 from bn 8
+rm const 7 from bn 6
+rm const 4 from bn 8
+rm const 8 from bn 8
+rm const 8 from bn 2
+solved row : 0 col : 0 num : 3
+solved row : 0 col : 4 num : 4
+solved row : 0 col : 7 num : 7
+solved row : 2 col : 1 num : 4
+solved row : 2 col : 4 num : 7
+solved row : 2 col : 7 num : 9
+solved row : 2 col : 8 num : 3
+solved row : 3 col : 1 num : 5
+solved row : 3 col : 6 num : 3
+solved row : 3 col : 7 num : 6
+solved row : 4 col : 0 num : 7
+solved row : 4 col : 2 num : 4
+solved row : 4 col : 7 num : 1
+solved row : 4 col : 8 num : 8
+solved row : 5 col : 1 num : 1
+solved row : 5 col : 7 num : 4
+solved row : 5 col : 8 num : 5
+solved row : 6 col : 2 num : 3
+solved row : 8 col : 0 num : 2
+solved row : 8 col : 2 num : 6
+solved row : 8 col : 7 num : 8
+solved row : 8 col : 8 num : 4
+rm const 3 from bn 8
+rm const 3 from bn 6
+rm const 3 from bn 6
+rm const 3 from bn 6
+rm const 3 from bn 8
+solved row : 0 col : 6 num : 8
+solved row : 2 col : 2 num : 8
+solved row : 2 col : 6 num : 6
+solved row : 3 col : 8 num : 7
+solved row : 6 col : 0 num : 4
+
+
+
+STARTING SOLVE ON NEW PUZZLE
+
+rm const 4 from bn 0
+rm const 5 from bn 0
+rm const 4 from bn 1
+rm const 5 from bn 1
+rm const 4 from bn 2
+rm const 5 from bn 2
+rm const 4 from bn 3
+rm const 5 from bn 3
+rm const 4 from bn 4
+rm const 5 from bn 4
+rm const 4 from bn 6
+rm const 5 from bn 6
+rm const 4 from bn 7
+rm const 5 from bn 7
+rm const 3 from bn 0
+rm const 7 from bn 0
+rm const 9 from bn 0
+rm const 3 from bn 1
+rm const 7 from bn 1
+rm const 9 from bn 1
+rm const 3 from bn 2
+rm const 7 from bn 2
+rm const 9 from bn 2
+rm const 3 from bn 5
+rm const 7 from bn 5
+rm const 9 from bn 5
+rm const 3 from bn 6
+rm const 7 from bn 6
+rm const 9 from bn 6
+rm const 3 from bn 7
+rm const 7 from bn 7
+rm const 9 from bn 7
+rm const 6 from bn 0
+rm const 1 from bn 0
+rm const 6 from bn 1
+rm const 1 from bn 1
+rm const 6 from bn 2
+rm const 1 from bn 2
+rm const 4 from bn 4
+rm const 6 from bn 4
+rm const 1 from bn 4
+rm const 4 from bn 5
+rm const 6 from bn 5
+rm const 1 from bn 5
+rm const 4 from bn 7
+rm const 6 from bn 7
+rm const 1 from bn 7
+rm const 8 from bn 1
+rm const 5 from bn 1
+rm const 8 from bn 2
+rm const 5 from bn 2
+rm const 4 from bn 5
+rm const 8 from bn 5
+rm const 5 from bn 5
+rm const 4 from bn 6
+rm const 8 from bn 6
+rm const 5 from bn 6
+rm const 4 from bn 7
+rm const 8 from bn 7
+rm const 5 from bn 7
+rm const 4 from bn 8
+rm const 8 from bn 8
+rm const 5 from bn 8
+rm const 2 from bn 0
+rm const 9 from bn 0
+rm const 2 from bn 1
+rm const 9 from bn 1
+rm const 2 from bn 2
+rm const 9 from bn 2
+rm const 2 from bn 5
+rm const 9 from bn 5
+rm const 2 from bn 6
+rm const 9 from bn 6
+rm const 2 from bn 7
+rm const 9 from bn 7
+rm const 2 from bn 8
+rm const 9 from bn 8
+rm const 8 from bn 0
+rm const 8 from bn 1
+rm const 4 from bn 6
+rm const 8 from bn 6
+rm const 5 from bn 6
+rm const 4 from bn 7
+rm const 8 from bn 7
+rm const 5 from bn 7
+rm const 4 from bn 8
+rm const 8 from bn 8
+rm const 5 from bn 8
+rm const 3 from bn 1
+rm const 6 from bn 3
+rm const 1 from bn 3
+rm const 3 from bn 3
+rm const 6 from bn 4
+rm const 1 from bn 4
+rm const 3 from bn 4
+rm const 6 from bn 5
+rm const 1 from bn 5
+rm const 3 from bn 5
+rm const 6 from bn 7
+rm const 1 from bn 7
+rm const 3 from bn 7
+rm const 6 from bn 8
+rm const 1 from bn 8
+rm const 3 from bn 8
+rm const 2 from bn 0
+rm const 3 from bn 0
+rm const 4 from bn 3
+rm const 5 from bn 3
+rm const 2 from bn 3
+rm const 3 from bn 3
+rm const 4 from bn 4
+rm const 5 from bn 4
+rm const 2 from bn 4
+rm const 3 from bn 4
+rm const 4 from bn 5
+rm const 5 from bn 5
+rm const 2 from bn 5
+rm const 3 from bn 5
+rm const 4 from bn 7
+rm const 5 from bn 7
+rm const 2 from bn 7
+rm const 3 from bn 7
+rm const 3 from bn 1
+rm const 3 from bn 3
+rm const 3 from bn 4
+rm const 3 from bn 5
+rm const 5 from bn 7
+rm const 5 from bn 8
+rm const 7 from bn 2
+rm const 9 from bn 2
+rm const 7 from bn 5
+rm const 9 from bn 5
+rm const 2 from bn 6
+rm const 3 from bn 7
+rm const 7 from bn 7
+rm const 7 from bn 8
+rm const 9 from bn 8
+rm const 4 from bn 3
+rm const 8 from bn 3
+rm const 4 from bn 4
+rm const 8 from bn 4
+rm const 4 from bn 5
+rm const 8 from bn 5
+rm const 4 from bn 6
+rm const 8 from bn 6
+rm const 4 from bn 7
+rm const 8 from bn 7
+rm const 4 from bn 8
+rm const 8 from bn 8
+rm const 3 from bn 3
+rm const 2 from bn 3
+rm const 3 from bn 4
+rm const 2 from bn 4
+rm const 3 from bn 5
+rm const 2 from bn 5
+rm const 3 from bn 6
+rm const 2 from bn 6
+rm const 3 from bn 7
+rm const 2 from bn 7
+rm const 3 from bn 8
+rm const 2 from bn 8
+rm const 1 from bn 0
+rm const 1 from bn 1
+rm const 1 from bn 2
+rm const 1 from bn 3
+rm const 1 from bn 5
+rm const 1 from bn 6
+rm const 1 from bn 7
+rm const 1 from bn 8
+rm const 1 from bn 2
+rm const 5 from bn 3
+rm const 8 from bn 3
+rm const 5 from bn 5
+rm const 8 from bn 5
+rm const 5 from bn 6
+rm const 1 from bn 6
+rm const 8 from bn 6
+rm const 5 from bn 8
+rm const 1 from bn 8
+rm const 8 from bn 8
+rm const 1 from bn 2
+rm const 6 from bn 2
+rm const 7 from bn 3
+rm const 9 from bn 3
+rm const 6 from bn 3
+rm const 2 from bn 3
+rm const 7 from bn 5
+rm const 9 from bn 5
+rm const 6 from bn 5
+rm const 2 from bn 5
+rm const 7 from bn 6
+rm const 9 from bn 6
+rm const 1 from bn 6
+rm const 6 from bn 6
+rm const 2 from bn 6
+rm const 6 from bn 0
+rm const 8 from bn 0
+rm const 6 from bn 1
+rm const 8 from bn 1
+rm const 6 from bn 2
+rm const 8 from bn 2
+rm const 3 from bn 3
+rm const 8 from bn 3
+rm const 6 from bn 6
+rm const 2 from bn 6
+rm const 3 from bn 6
+rm const 8 from bn 6
+rm const 6 from bn 1
+rm const 1 from bn 1
+rm const 6 from bn 2
+rm const 1 from bn 2
+rm const 6 from bn 3
+rm const 6 from bn 5
+rm const 6 from bn 6
+rm const 1 from bn 6
+rm const 8 from bn 0
+rm const 8 from bn 1
+rm const 8 from bn 2
+rm const 3 from bn 3
+rm const 3 from bn 4
+rm const 3 from bn 5
+rm const 8 from bn 5
+rm const 2 from bn 0
+rm const 3 from bn 1
+rm const 2 from bn 3
+rm const 3 from bn 4
+rm const 9 from bn 5
+rm const 3 from bn 7
+rm const 9 from bn 1
+rm const 9 from bn 3
+rm const 4 from bn 3
+rm const 4 from bn 4
+rm const 9 from bn 5
+rm const 4 from bn 5
+rm const 6 from bn 8
+rm const 3 from bn 8
+rm const 9 from bn 8
+rm const 4 from bn 8
+rm const 2 from bn 3
+rm const 9 from bn 3
+rm const 2 from bn 4
+rm const 9 from bn 4
+rm const 2 from bn 5
+rm const 9 from bn 5
+rm const 2 from bn 7
+rm const 9 from bn 7
+rm const 2 from bn 8
+rm const 9 from bn 8
+rm const 6 from bn 0
+rm const 1 from bn 0
+rm const 6 from bn 1
+rm const 8 from bn 2
+rm const 6 from bn 3
+rm const 1 from bn 3
+rm const 6 from bn 6
+rm const 1 from bn 6
+rm const 6 from bn 7
+rm const 6 from bn 6
+rm const 3 from bn 6
+rm const 6 from bn 7
+rm const 3 from bn 7
+rm const 6 from bn 8
+rm const 3 from bn 8
+rm const 8 from bn 0
+rm const 6 from bn 0
+rm const 4 from bn 0
+rm const 8 from bn 1
+rm const 6 from bn 1
+rm const 4 from bn 1
+rm const 8 from bn 2
+rm const 6 from bn 2
+rm const 8 from bn 7
+rm const 4 from bn 7
+rm const 8 from bn 8
+rm const 6 from bn 8
+rm const 4 from bn 8
+rm const 4 from bn 1
+rm const 4 from bn 2
+rm const 9 from bn 4
+rm const 9 from bn 5
+rm const 9 from bn 7
+rm const 4 from bn 7
+rm const 9 from bn 8
+rm const 4 from bn 8
+rm const 2 from bn 1
+rm const 2 from bn 2
+rm const 8 from bn 2
+rm const 1 from bn 3
+rm const 1 from bn 6
+rm const 8 from bn 6
+rm const 1 from bn 7
+rm const 2 from bn 7
+rm const 1 from bn 8
+rm const 2 from bn 8
+rm const 8 from bn 8
+rm const 1 from bn 1
+rm const 9 from bn 3
+rm const 3 from bn 3
+rm const 9 from bn 4
+rm const 3 from bn 4
+rm const 1 from bn 6
+rm const 1 from bn 7
+rm const 3 from bn 8
+solved row : 4 col : 2 num : 8
+solved row : 4 col : 6 num : 5
+rm const 8 from bn 3
+rm const 8 from bn 5
+rm const 6 from bn 3
+rm const 6 from bn 5
+rm const 5 from bn 3
+rm const 5 from bn 5
+rm const 5 from bn 0
+rm const 5 from bn 2
+rm const 4 from bn 6
+rm const 5 from bn 8
+solved row : 0 col : 2 num : 9
+solved row : 0 col : 7 num : 5
+solved row : 2 col : 0 num : 2
+solved row : 2 col : 1 num : 7
+solved row : 2 col : 3 num : 1
+solved row : 2 col : 4 num : 6
+solved row : 3 col : 4 num : 7
+solved row : 3 col : 5 num : 8
+solved row : 4 col : 3 num : 3
+solved row : 4 col : 5 num : 4
+solved row : 6 col : 3 num : 7
+solved row : 7 col : 3 num : 9
+solved row : 8 col : 6 num : 8
+solved row : 8 col : 7 num : 7
+rm const 2 from bn 0
+rm const 7 from bn 1
+rm const 2 from bn 3
+rm const 7 from bn 4
+rm const 8 from bn 6
+rm const 8 from bn 1
+rm const 3 from bn 1
+rm const 2 from bn 5
+rm const 7 from bn 5
+rm const 7 from bn 7
+rm const 7 from bn 8
+rm const 7 from bn 3
+rm const 7 from bn 5
+rm const 7 from bn 8
+rm const 7 from bn 6
+rm const 7 from bn 7
+rm const 7 from bn 8
+rm const 7 from bn 7
+rm const 7 from bn 8
+rm const 7 from bn 0
+rm const 7 from bn 6
+rm const 7 from bn 8
+rm const 1 from bn 6
+rm const 3 from bn 0
+rm const 2 from bn 0
+rm const 3 from bn 6
+rm const 2 from bn 3
+rm const 2 from bn 4
+rm const 7 from bn 1
+rm const 7 from bn 5
+rm const 7 from bn 7
+rm const 7 from bn 8
+rm const 2 from bn 7
+rm const 7 from bn 1
+rm const 1 from bn 7
+rm const 6 from bn 8
+rm const 7 from bn 8
+rm const 4 from bn 1
+rm const 5 from bn 1
+solved row : 0 col : 0 num : 8
+solved row : 0 col : 1 num : 3
+solved row : 0 col : 4 num : 2
+solved row : 0 col : 5 num : 7
+solved row : 1 col : 5 num : 3
+solved row : 1 col : 6 num : 2
+solved row : 1 col : 7 num : 9
+solved row : 2 col : 5 num : 9
+solved row : 2 col : 7 num : 8
+solved row : 2 col : 8 num : 4
+solved row : 3 col : 2 num : 6
+solved row : 3 col : 3 num : 5
+solved row : 3 col : 6 num : 1
+solved row : 3 col : 8 num : 9
+solved row : 5 col : 2 num : 1
+solved row : 5 col : 3 num : 6
+solved row : 5 col : 4 num : 9
+solved row : 5 col : 5 num : 2
+solved row : 5 col : 6 num : 7
+solved row : 6 col : 0 num : 4
+solved row : 6 col : 1 num : 8
+solved row : 6 col : 4 num : 3
+solved row : 6 col : 5 num : 5
+solved row : 6 col : 7 num : 1
+solved row : 6 col : 8 num : 6
+solved row : 7 col : 2 num : 7
+solved row : 7 col : 7 num : 2
+solved row : 7 col : 8 num : 3
+solved row : 8 col : 1 num : 6
+solved row : 8 col : 3 num : 2
+solved row : 8 col : 4 num : 4
+solved row : 8 col : 8 num : 5
+rm const 6 from bn 1
+rm const 1 from bn 0
+rm const 9 from bn 8
+rm const 1 from bn 6
+rm const 1 from bn 7
+rm const 9 from bn 7
+rm const 5 from bn 1
+solved row : 1 col : 0 num : 6
+solved row : 1 col : 1 num : 1
+solved row : 1 col : 8 num : 7
+solved row : 3 col : 7 num : 4
+solved row : 5 col : 0 num : 5
+solved row : 5 col : 1 num : 4
+solved row : 7 col : 0 num : 1
+solved row : 7 col : 1 num : 5
+
+
+
+STARTING SOLVE ON NEW PUZZLE
+
+rm const 4 from bn 0
+rm const 3 from bn 0
+rm const 4 from bn 1
+rm const 3 from bn 1
+rm const 4 from bn 2
+rm const 3 from bn 2
+rm const 4 from bn 3
+rm const 3 from bn 3
+rm const 4 from bn 4
+rm const 3 from bn 4
+rm const 4 from bn 6
+rm const 3 from bn 6
+rm const 4 from bn 7
+rm const 3 from bn 7
+rm const 5 from bn 0
+rm const 6 from bn 0
+rm const 8 from bn 0
+rm const 5 from bn 1
+rm const 6 from bn 1
+rm const 8 from bn 1
+rm const 5 from bn 2
+rm const 6 from bn 2
+rm const 8 from bn 2
+rm const 5 from bn 6
+rm const 6 from bn 6
+rm const 8 from bn 6
+rm const 5 from bn 7
+rm const 6 from bn 7
+rm const 8 from bn 7
+rm const 5 from bn 8
+rm const 6 from bn 8
+rm const 8 from bn 8
+rm const 5 from bn 3
+rm const 6 from bn 3
+rm const 8 from bn 3
+rm const 5 from bn 4
+rm const 6 from bn 4
+rm const 8 from bn 4
+rm const 5 from bn 5
+rm const 6 from bn 5
+rm const 8 from bn 5
+rm const 5 from bn 6
+rm const 6 from bn 6
+rm const 8 from bn 6
+rm const 5 from bn 7
+rm const 6 from bn 7
+rm const 8 from bn 7
+rm const 5 from bn 8
+rm const 6 from bn 8
+rm const 8 from bn 8
+rm const 1 from bn 0
+rm const 9 from bn 0
+rm const 8 from bn 1
+rm const 6 from bn 1
+rm const 1 from bn 1
+rm const 9 from bn 1
+rm const 8 from bn 2
+rm const 6 from bn 2
+rm const 1 from bn 2
+rm const 9 from bn 2
+rm const 8 from bn 8
+rm const 3 from bn 8
+rm const 6 from bn 8
+rm const 1 from bn 8
+rm const 9 from bn 8
+rm const 7 from bn 0
+rm const 7 from bn 1
+rm const 4 from bn 3
+rm const 7 from bn 3
+rm const 4 from bn 4
+rm const 7 from bn 4
+rm const 4 from bn 5
+rm const 7 from bn 5
+rm const 4 from bn 7
+rm const 7 from bn 7
+rm const 4 from bn 8
+rm const 7 from bn 8
+rm const 7 from bn 0
+rm const 1 from bn 0
+rm const 7 from bn 1
+rm const 1 from bn 1
+rm const 7 from bn 2
+rm const 1 from bn 2
+rm const 1 from bn 4
+rm const 1 from bn 5
+rm const 7 from bn 7
+rm const 1 from bn 7
+rm const 7 from bn 8
+rm const 1 from bn 8
+rm const 7 from bn 0
+rm const 4 from bn 4
+rm const 3 from bn 4
+rm const 7 from bn 4
+rm const 5 from bn 4
+rm const 4 from bn 5
+rm const 3 from bn 5
+rm const 7 from bn 5
+rm const 5 from bn 5
+rm const 4 from bn 6
+rm const 3 from bn 6
+rm const 7 from bn 6
+rm const 5 from bn 6
+rm const 4 from bn 7
+rm const 3 from bn 7
+rm const 7 from bn 7
+rm const 5 from bn 7
+rm const 1 from bn 0
+rm const 3 from bn 3
+rm const 1 from bn 3
+rm const 3 from bn 4
+rm const 1 from bn 4
+rm const 3 from bn 5
+rm const 1 from bn 5
+rm const 3 from bn 7
+rm const 3 from bn 8
+rm const 8 from bn 0
+rm const 7 from bn 0
+rm const 3 from bn 0
+rm const 6 from bn 0
+rm const 8 from bn 3
+rm const 7 from bn 3
+rm const 3 from bn 3
+rm const 6 from bn 3
+rm const 8 from bn 5
+rm const 6 from bn 5
+rm const 8 from bn 6
+rm const 7 from bn 6
+rm const 3 from bn 6
+rm const 6 from bn 6
+rm const 8 from bn 8
+rm const 6 from bn 8
+rm const 1 from bn 1
+rm const 5 from bn 4
+rm const 1 from bn 4
+rm const 6 from bn 4
+rm const 5 from bn 5
+rm const 1 from bn 5
+rm const 6 from bn 5
+rm const 5 from bn 6
+rm const 1 from bn 6
+rm const 6 from bn 6
+rm const 5 from bn 7
+rm const 1 from bn 7
+rm const 6 from bn 7
+rm const 1 from bn 0
+rm const 9 from bn 0
+rm const 2 from bn 0
+rm const 8 from bn 8
+rm const 7 from bn 8
+rm const 1 from bn 8
+rm const 3 from bn 8
+rm const 9 from bn 8
+rm const 6 from bn 8
+rm const 2 from bn 8
+rm const 3 from bn 3
+rm const 9 from bn 3
+rm const 2 from bn 3
+rm const 1 from bn 4
+rm const 3 from bn 4
+rm const 9 from bn 4
+rm const 2 from bn 4
+rm const 1 from bn 5
+rm const 3 from bn 5
+rm const 9 from bn 5
+rm const 2 from bn 5
+rm const 3 from bn 6
+rm const 9 from bn 6
+rm const 2 from bn 6
+rm const 1 from bn 8
+rm const 3 from bn 8
+rm const 9 from bn 8
+rm const 2 from bn 8
+rm const 3 from bn 1
+rm const 2 from bn 1
+rm const 2 from bn 2
+rm const 7 from bn 2
+rm const 6 from bn 4
+rm const 5 from bn 4
+rm const 7 from bn 4
+rm const 6 from bn 7
+rm const 3 from bn 7
+rm const 2 from bn 7
+rm const 5 from bn 7
+rm const 7 from bn 7
+rm const 5 from bn 0
+rm const 5 from bn 5
+rm const 3 from bn 6
+rm const 5 from bn 6
+rm const 3 from bn 8
+rm const 5 from bn 8
+rm const 5 from bn 2
+rm const 6 from bn 3
+rm const 2 from bn 3
+rm const 1 from bn 3
+rm const 6 from bn 5
+rm const 2 from bn 5
+rm const 1 from bn 5
+rm const 6 from bn 6
+rm const 2 from bn 6
+rm const 5 from bn 6
+rm const 1 from bn 6
+rm const 6 from bn 8
+rm const 2 from bn 8
+rm const 5 from bn 8
+rm const 1 from bn 8
+rm const 9 from bn 1
+rm const 1 from bn 1
+rm const 9 from bn 2
+rm const 8 from bn 4
+rm const 8 from bn 5
+rm const 8 from bn 6
+rm const 9 from bn 6
+rm const 1 from bn 6
+rm const 8 from bn 7
+rm const 9 from bn 7
+rm const 1 from bn 7
+rm const 2 from bn 0
+rm const 1 from bn 0
+rm const 2 from bn 2
+rm const 1 from bn 2
+rm const 6 from bn 5
+rm const 1 from bn 0
+rm const 9 from bn 0
+rm const 5 from bn 0
+rm const 1 from bn 2
+rm const 9 from bn 2
+rm const 1 from bn 3
+rm const 9 from bn 3
+rm const 5 from bn 3
+rm const 1 from bn 5
+rm const 9 from bn 5
+rm const 1 from bn 6
+rm const 9 from bn 6
+rm const 5 from bn 6
+rm const 5 from bn 7
+rm const 9 from bn 0
+rm const 7 from bn 4
+rm const 9 from bn 4
+rm const 7 from bn 5
+rm const 9 from bn 5
+rm const 7 from bn 6
+rm const 1 from bn 6
+rm const 6 from bn 6
+rm const 9 from bn 6
+rm const 7 from bn 7
+rm const 1 from bn 7
+rm const 6 from bn 7
+rm const 9 from bn 7
+rm const 6 from bn 0
+rm const 6 from bn 2
+rm const 5 from bn 5
+rm const 6 from bn 5
+rm const 5 from bn 6
+rm const 1 from bn 8
+rm const 5 from bn 8
+rm const 6 from bn 8
+rm const 7 from bn 0
+rm const 7 from bn 2
+rm const 7 from bn 3
+rm const 1 from bn 4
+rm const 5 from bn 5
+rm const 6 from bn 5
+rm const 7 from bn 5
+rm const 2 from bn 0
+rm const 2 from bn 1
+rm const 5 from bn 1
+rm const 6 from bn 1
+rm const 2 from bn 2
+rm const 5 from bn 2
+rm const 6 from bn 2
+rm const 2 from bn 8
+rm const 5 from bn 8
+rm const 1 from bn 8
+rm const 6 from bn 8
+rm const 7 from bn 8
+rm const 7 from bn 0
+rm const 9 from bn 3
+rm const 9 from bn 4
+rm const 9 from bn 8
+rm const 7 from bn 8
+rm const 7 from bn 2
+rm const 9 from bn 2
+rm const 9 from bn 7
+rm const 6 from bn 8
+rm const 5 from bn 8
+rm const 7 from bn 8
+rm const 1 from bn 8
+rm const 9 from bn 8
+rm const 4 from bn 0
+rm const 4 from bn 2
+rm const 4 from bn 4
+rm const 4 from bn 5
+rm const 4 from bn 6
+rm const 4 from bn 8
+rm const 6 from bn 0
+rm const 7 from bn 0
+rm const 7 from bn 1
+solved row : 3 col : 8 num : 4
+solved row : 4 col : 6 num : 8
+solved row : 5 col : 2 num : 9
+solved row : 7 col : 6 num : 5
+solved row : 7 col : 8 num : 1
+rm const 9 from bn 0
+rm const 9 from bn 4
+rm const 9 from bn 3
+rm const 9 from bn 6
+rm const 4 from bn 0
+rm const 8 from bn 3
+rm const 8 from bn 4
+rm const 8 from bn 8
+rm const 8 from bn 6
+rm const 8 from bn 8
+rm const 9 from bn 8
+rm const 4 from bn 3
+rm const 4 from bn 5
+rm const 3 from bn 8
+rm const 3 from bn 0
+rm const 8 from bn 6
+rm const 3 from bn 6
+solved row : 0 col : 1 num : 7
+solved row : 0 col : 6 num : 2
+solved row : 0 col : 7 num : 4
+solved row : 0 col : 8 num : 3
+solved row : 1 col : 4 num : 1
+solved row : 2 col : 7 num : 8
+solved row : 3 col : 0 num : 5
+solved row : 4 col : 4 num : 4
+solved row : 4 col : 5 num : 6
+solved row : 4 col : 8 num : 9
+solved row : 5 col : 0 num : 4
+solved row : 5 col : 3 num : 8
+solved row : 5 col : 5 num : 5
+solved row : 5 col : 6 num : 3
+solved row : 5 col : 8 num : 7
+solved row : 6 col : 0 num : 7
+solved row : 6 col : 3 num : 9
+solved row : 6 col : 6 num : 4
+solved row : 6 col : 8 num : 2
+solved row : 7 col : 2 num : 6
+solved row : 8 col : 0 num : 2
+solved row : 8 col : 1 num : 4
+rm const 2 from bn 0
+rm const 2 from bn 1
+rm const 2 from bn 2
+rm const 2 from bn 4
+rm const 2 from bn 7
+rm const 2 from bn 2
+rm const 8 from bn 5
+rm const 8 from bn 8
+rm const 1 from bn 4
+rm const 8 from bn 0
+rm const 4 from bn 3
+rm const 4 from bn 7
+rm const 2 from bn 2
+rm const 2 from bn 5
+rm const 3 from bn 3
+rm const 3 from bn 5
+rm const 8 from bn 8
+rm const 2 from bn 8
+solved row : 0 col : 0 num : 9
+solved row : 0 col : 2 num : 1
+solved row : 1 col : 5 num : 2
+solved row : 1 col : 7 num : 9
+solved row : 2 col : 0 num : 6
+solved row : 2 col : 4 num : 9
+solved row : 2 col : 5 num : 7
+solved row : 4 col : 0 num : 1
+solved row : 4 col : 2 num : 2
+solved row : 4 col : 3 num : 7
+solved row : 6 col : 2 num : 8
+solved row : 6 col : 5 num : 3
+solved row : 7 col : 0 num : 3
+solved row : 7 col : 3 num : 2
+solved row : 7 col : 4 num : 8
+solved row : 8 col : 7 num : 3
+solved row : 8 col : 8 num : 8
+rm const 6 from bn 3
+rm const 2 from bn 3
+rm const 2 from bn 6
+rm const 2 from bn 1
+rm const 6 from bn 8
+rm const 5 from bn 1
+rm const 2 from bn 7
+solved row : 1 col : 0 num : 8
+solved row : 1 col : 1 num : 5
+solved row : 1 col : 3 num : 3
+solved row : 1 col : 8 num : 6
+solved row : 2 col : 1 num : 2
+solved row : 2 col : 3 num : 4
+solved row : 2 col : 8 num : 5
+solved row : 7 col : 5 num : 4
+
+
+
+STARTING SOLVE ON NEW PUZZLE
+
+rm const 5 from bn 0
+rm const 1 from bn 0
+rm const 7 from bn 0
+rm const 5 from bn 2
+rm const 1 from bn 2
+rm const 7 from bn 2
+rm const 5 from bn 5
+rm const 1 from bn 5
+rm const 7 from bn 5
+rm const 5 from bn 6
+rm const 1 from bn 6
+rm const 7 from bn 6
+rm const 5 from bn 7
+rm const 1 from bn 7
+rm const 7 from bn 7
+rm const 5 from bn 8
+rm const 1 from bn 8
+rm const 7 from bn 8
+rm const 8 from bn 0
+rm const 6 from bn 0
+rm const 8 from bn 2
+rm const 6 from bn 2
+rm const 1 from bn 3
+rm const 8 from bn 3
+rm const 6 from bn 3
+rm const 1 from bn 5
+rm const 8 from bn 5
+rm const 6 from bn 5
+rm const 1 from bn 6
+rm const 8 from bn 6
+rm const 6 from bn 6
+rm const 1 from bn 7
+rm const 8 from bn 7
+rm const 6 from bn 7
+rm const 9 from bn 0
+rm const 2 from bn 0
+rm const 9 from bn 2
+rm const 2 from bn 2
+rm const 5 from bn 3
+rm const 9 from bn 3
+rm const 2 from bn 3
+rm const 5 from bn 5
+rm const 9 from bn 5
+rm const 2 from bn 5
+rm const 5 from bn 6
+rm const 9 from bn 6
+rm const 2 from bn 6
+rm const 5 from bn 7
+rm const 9 from bn 7
+rm const 2 from bn 7
+rm const 6 from bn 0
+rm const 4 from bn 0
+rm const 7 from bn 0
+rm const 6 from bn 2
+rm const 4 from bn 2
+rm const 7 from bn 2
+rm const 9 from bn 3
+rm const 6 from bn 3
+rm const 4 from bn 3
+rm const 7 from bn 3
+rm const 9 from bn 4
+rm const 6 from bn 4
+rm const 4 from bn 4
+rm const 7 from bn 4
+rm const 9 from bn 6
+rm const 6 from bn 6
+rm const 4 from bn 6
+rm const 7 from bn 6
+rm const 2 from bn 2
+rm const 5 from bn 3
+rm const 7 from bn 3
+rm const 2 from bn 3
+rm const 5 from bn 4
+rm const 7 from bn 4
+rm const 2 from bn 4
+rm const 5 from bn 6
+rm const 7 from bn 6
+rm const 2 from bn 6
+rm const 5 from bn 7
+rm const 7 from bn 7
+rm const 2 from bn 7
+rm const 5 from bn 8
+rm const 7 from bn 8
+rm const 2 from bn 8
+rm const 6 from bn 2
+rm const 1 from bn 3
+rm const 1 from bn 4
+rm const 1 from bn 6
+rm const 7 from bn 6
+rm const 6 from bn 6
+rm const 1 from bn 7
+rm const 7 from bn 7
+rm const 6 from bn 7
+rm const 1 from bn 8
+rm const 7 from bn 8
+rm const 6 from bn 8
+rm const 2 from bn 3
+rm const 2 from bn 4
+rm const 2 from bn 5
+rm const 2 from bn 6
+rm const 2 from bn 7
+rm const 2 from bn 8
+rm const 1 from bn 3
+rm const 5 from bn 3
+rm const 1 from bn 6
+rm const 5 from bn 6
+rm const 1 from bn 7
+rm const 5 from bn 7
+rm const 1 from bn 8
+rm const 5 from bn 8
+rm const 4 from bn 0
+rm const 4 from bn 1
+rm const 4 from bn 2
+rm const 4 from bn 6
+rm const 7 from bn 6
+rm const 4 from bn 7
+rm const 7 from bn 7
+rm const 4 from bn 8
+rm const 7 from bn 8
+rm const 2 from bn 0
+rm const 5 from bn 0
+rm const 8 from bn 1
+rm const 1 from bn 1
+rm const 8 from bn 2
+rm const 2 from bn 2
+rm const 8 from bn 4
+rm const 1 from bn 4
+rm const 2 from bn 6
+rm const 5 from bn 6
+rm const 8 from bn 0
+rm const 1 from bn 0
+rm const 8 from bn 1
+rm const 8 from bn 2
+rm const 1 from bn 2
+rm const 8 from bn 3
+rm const 1 from bn 3
+rm const 8 from bn 4
+rm const 1 from bn 4
+rm const 8 from bn 5
+rm const 1 from bn 5
+rm const 8 from bn 8
+rm const 1 from bn 8
+rm const 3 from bn 0
+rm const 3 from bn 1
+rm const 3 from bn 2
+rm const 2 from bn 3
+rm const 5 from bn 3
+rm const 3 from bn 3
+rm const 2 from bn 5
+rm const 5 from bn 5
+rm const 3 from bn 5
+rm const 2 from bn 8
+rm const 5 from bn 8
+rm const 3 from bn 8
+rm const 1 from bn 2
+rm const 2 from bn 3
+rm const 2 from bn 4
+rm const 1 from bn 4
+rm const 2 from bn 5
+rm const 1 from bn 5
+rm const 2 from bn 6
+rm const 2 from bn 8
+rm const 1 from bn 8
+rm const 2 from bn 1
+rm const 5 from bn 1
+rm const 9 from bn 4
+rm const 4 from bn 4
+rm const 5 from bn 4
+rm const 7 from bn 4
+rm const 9 from bn 7
+rm const 4 from bn 7
+rm const 2 from bn 7
+rm const 1 from bn 7
+rm const 5 from bn 7
+rm const 7 from bn 7
+rm const 6 from bn 1
+rm const 6 from bn 3
+rm const 8 from bn 4
+rm const 6 from bn 4
+rm const 8 from bn 5
+rm const 6 from bn 5
+rm const 8 from bn 7
+rm const 1 from bn 7
+rm const 2 from bn 7
+rm const 6 from bn 7
+rm const 6 from bn 2
+rm const 5 from bn 4
+rm const 3 from bn 4
+rm const 5 from bn 6
+rm const 3 from bn 6
+rm const 2 from bn 6
+rm const 6 from bn 6
+rm const 5 from bn 7
+rm const 3 from bn 7
+rm const 2 from bn 7
+rm const 6 from bn 7
+rm const 5 from bn 8
+rm const 3 from bn 8
+rm const 2 from bn 8
+rm const 6 from bn 8
+rm const 6 from bn 3
+rm const 7 from bn 3
+rm const 7 from bn 4
+rm const 6 from bn 5
+rm const 7 from bn 5
+rm const 6 from bn 6
+rm const 7 from bn 6
+rm const 6 from bn 7
+rm const 7 from bn 7
+rm const 6 from bn 8
+rm const 7 from bn 8
+rm const 5 from bn 3
+rm const 5 from bn 5
+rm const 1 from bn 6
+rm const 1 from bn 7
+rm const 1 from bn 8
+rm const 6 from bn 1
+rm const 6 from bn 2
+rm const 6 from bn 4
+rm const 6 from bn 5
+rm const 6 from bn 7
+rm const 6 from bn 8
+rm const 5 from bn 1
+rm const 5 from bn 2
+rm const 5 from bn 6
+rm const 2 from bn 6
+rm const 5 from bn 7
+rm const 2 from bn 7
+rm const 5 from bn 8
+rm const 2 from bn 8
+rm const 5 from bn 0
+rm const 8 from bn 1
+rm const 8 from bn 2
+rm const 8 from bn 5
+rm const 5 from bn 5
+rm const 8 from bn 6
+rm const 8 from bn 7
+rm const 5 from bn 7
+rm const 8 from bn 8
+rm const 5 from bn 8
+rm const 1 from bn 2
+rm const 8 from bn 4
+rm const 8 from bn 5
+rm const 5 from bn 5
+rm const 1 from bn 5
+rm const 5 from bn 6
+rm const 7 from bn 6
+rm const 8 from bn 8
+rm const 5 from bn 8
+rm const 1 from bn 8
+rm const 3 from bn 0
+rm const 7 from bn 0
+rm const 3 from bn 1
+rm const 9 from bn 1
+rm const 3 from bn 2
+rm const 9 from bn 2
+rm const 7 from bn 4
+rm const 9 from bn 4
+rm const 7 from bn 5
+rm const 9 from bn 5
+rm const 3 from bn 6
+rm const 7 from bn 6
+rm const 9 from bn 6
+rm const 7 from bn 0
+rm const 1 from bn 1
+rm const 8 from bn 1
+rm const 7 from bn 2
+rm const 8 from bn 2
+rm const 1 from bn 6
+rm const 7 from bn 6
+rm const 8 from bn 6
+rm const 7 from bn 0
+rm const 9 from bn 0
+rm const 7 from bn 2
+rm const 9 from bn 2
+rm const 9 from bn 3
+rm const 7 from bn 6
+rm const 8 from bn 6
+rm const 9 from bn 6
+rm const 7 from bn 8
+rm const 8 from bn 8
+rm const 9 from bn 8
+rm const 8 from bn 1
+rm const 6 from bn 2
+rm const 8 from bn 2
+rm const 8 from bn 3
+rm const 8 from bn 5
+rm const 2 from bn 6
+rm const 6 from bn 6
+rm const 2 from bn 8
+rm const 6 from bn 8
+rm const 9 from bn 1
+rm const 7 from bn 2
+rm const 9 from bn 2
+rm const 6 from bn 3
+rm const 9 from bn 3
+rm const 9 from bn 5
+rm const 6 from bn 6
+solved row : 0 col : 3 num : 3
+solved row : 4 col : 4 num : 3
+solved row : 4 col : 7 num : 4
+solved row : 5 col : 3 num : 6
+solved row : 7 col : 0 num : 5
+solved row : 8 col : 8 num : 5
+rm const 3 from bn 0
+rm const 3 from bn 2
+rm const 3 from bn 5
+rm const 3 from bn 6
+rm const 3 from bn 3
+rm const 3 from bn 4
+rm const 3 from bn 6
+rm const 8 from bn 2
+rm const 8 from bn 6
+rm const 8 from bn 7
+rm const 3 from bn 4
+rm const 3 from bn 8
+rm const 3 from bn 5
+rm const 3 from bn 8
+rm const 3 from bn 7
+rm const 3 from bn 1
+rm const 4 from bn 1
+rm const 4 from bn 3
+rm const 4 from bn 5
+rm const 4 from bn 6
+rm const 4 from bn 7
+rm const 4 from bn 8
+rm const 4 from bn 6
+rm const 4 from bn 7
+rm const 4 from bn 8
+rm const 4 from bn 0
+rm const 8 from bn 6
+rm const 9 from bn 1
+rm const 9 from bn 2
+rm const 4 from bn 0
+rm const 8 from bn 0
+rm const 4 from bn 1
+rm const 8 from bn 2
+rm const 4 from bn 1
+rm const 4 from bn 2
+rm const 4 from bn 6
+solved row : 0 col : 0 num : 4
+solved row : 0 col : 5 num : 1
+solved row : 0 col : 6 num : 7
+solved row : 0 col : 7 num : 6
+solved row : 1 col : 4 num : 8
+solved row : 1 col : 7 num : 5
+solved row : 3 col : 3 num : 9
+solved row : 3 col : 5 num : 8
+solved row : 3 col : 8 num : 1
+solved row : 4 col : 1 num : 9
+solved row : 4 col : 3 num : 7
+solved row : 4 col : 5 num : 5
+solved row : 5 col : 0 num : 3
+solved row : 5 col : 5 num : 4
+solved row : 5 col : 6 num : 9
+solved row : 5 col : 7 num : 8
+solved row : 5 col : 8 num : 7
+solved row : 6 col : 6 num : 6
+solved row : 6 col : 7 num : 2
+solved row : 7 col : 4 num : 6
+solved row : 8 col : 3 num : 4
+rm const 4 from bn 2
+rm const 4 from bn 3
+rm const 4 from bn 6
+rm const 6 from bn 2
+rm const 9 from bn 2
+rm const 9 from bn 6
+rm const 9 from bn 7
+rm const 5 from bn 3
+rm const 6 from bn 7
+rm const 5 from bn 7
+rm const 8 from bn 8
+rm const 7 from bn 2
+solved row : 0 col : 2 num : 8
+solved row : 1 col : 3 num : 2
+solved row : 2 col : 3 num : 5
+solved row : 2 col : 6 num : 8
+solved row : 2 col : 7 num : 1
+solved row : 3 col : 0 num : 7
+solved row : 6 col : 0 num : 9
+solved row : 6 col : 1 num : 1
+solved row : 8 col : 1 num : 8
+solved row : 8 col : 6 num : 1
+rm const 9 from bn 2
+rm const 9 from bn 2
+rm const 9 from bn 5
+rm const 9 from bn 5
+rm const 3 from bn 5
+rm const 3 from bn 8
+rm const 2 from bn 2
+solved row : 1 col : 6 num : 4
+solved row : 2 col : 0 num : 2
+solved row : 6 col : 2 num : 7
+solved row : 6 col : 5 num : 3
+solved row : 6 col : 8 num : 4
+solved row : 7 col : 1 num : 4
+solved row : 7 col : 5 num : 9
+solved row : 7 col : 6 num : 3
+solved row : 8 col : 2 num : 3
+solved row : 8 col : 5 num : 2
+rm const 4 from bn 3
+rm const 3 from bn 1
+rm const 3 from bn 2
+rm const 6 from bn 2
+rm const 4 from bn 5
+solved row : 1 col : 2 num : 9
+solved row : 2 col : 1 num : 3
+solved row : 2 col : 8 num : 9
+solved row : 3 col : 1 num : 6
+solved row : 3 col : 2 num : 4
+solved row : 7 col : 2 num : 2
+rm const 9 from bn 8
+rm const 9 from bn 8
+solved row : 1 col : 8 num : 3
+solved row : 2 col : 2 num : 6
+
+
+
+STARTING SOLVE ON NEW PUZZLE
+
+rm const 8 from bn 1
+rm const 3 from bn 1
+rm const 7 from bn 1
+rm const 8 from bn 2
+rm const 3 from bn 2
+rm const 7 from bn 2
+rm const 8 from bn 3
+rm const 3 from bn 3
+rm const 7 from bn 3
+rm const 8 from bn 4
+rm const 3 from bn 4
+rm const 7 from bn 4
+rm const 8 from bn 6
+rm const 3 from bn 6
+rm const 7 from bn 6
+rm const 8 from bn 8
+rm const 3 from bn 8
+rm const 7 from bn 8
+rm const 8 from bn 3
+rm const 8 from bn 4
+rm const 8 from bn 5
+rm const 8 from bn 6
+rm const 8 from bn 7
+rm const 8 from bn 8
+rm const 8 from bn 3
+rm const 8 from bn 4
+rm const 8 from bn 5
+rm const 8 from bn 6
+rm const 8 from bn 7
+rm const 8 from bn 8
+rm const 6 from bn 0
+rm const 9 from bn 0
+rm const 6 from bn 1
+rm const 9 from bn 1
+rm const 6 from bn 2
+rm const 9 from bn 2
+rm const 6 from bn 4
+rm const 9 from bn 4
+rm const 6 from bn 5
+rm const 9 from bn 5
+rm const 6 from bn 6
+rm const 9 from bn 6
+rm const 6 from bn 8
+rm const 9 from bn 8
+rm const 5 from bn 0
+rm const 9 from bn 0
+rm const 5 from bn 1
+rm const 9 from bn 1
+rm const 7 from bn 4
+rm const 5 from bn 4
+rm const 9 from bn 4
+rm const 7 from bn 5
+rm const 5 from bn 5
+rm const 9 from bn 5
+rm const 7 from bn 6
+rm const 5 from bn 6
+rm const 9 from bn 6
+rm const 7 from bn 7
+rm const 5 from bn 7
+rm const 9 from bn 7
+rm const 6 from bn 0
+rm const 6 from bn 1
+rm const 3 from bn 4
+rm const 3 from bn 5
+rm const 3 from bn 6
+rm const 6 from bn 6
+rm const 3 from bn 7
+rm const 6 from bn 7
+rm const 3 from bn 8
+rm const 6 from bn 8
+rm const 2 from bn 0
+rm const 2 from bn 1
+rm const 2 from bn 2
+rm const 2 from bn 3
+rm const 2 from bn 4
+rm const 2 from bn 5
+rm const 2 from bn 7
+rm const 2 from bn 8
+rm const 1 from bn 0
+rm const 1 from bn 2
+rm const 3 from bn 3
+rm const 1 from bn 3
+rm const 8 from bn 3
+rm const 3 from bn 4
+rm const 1 from bn 4
+rm const 8 from bn 4
+rm const 3 from bn 5
+rm const 1 from bn 5
+rm const 8 from bn 5
+rm const 3 from bn 8
+rm const 1 from bn 8
+rm const 8 from bn 8
+rm const 9 from bn 0
+rm const 2 from bn 0
+rm const 9 from bn 2
+rm const 2 from bn 2
+rm const 7 from bn 3
+rm const 2 from bn 3
+rm const 7 from bn 5
+rm const 2 from bn 5
+rm const 7 from bn 7
+rm const 9 from bn 7
+rm const 7 from bn 8
+rm const 9 from bn 8
+rm const 5 from bn 0
+rm const 5 from bn 2
+rm const 5 from bn 3
+rm const 5 from bn 5
+rm const 5 from bn 6
+rm const 5 from bn 8
+rm const 1 from bn 0
+rm const 5 from bn 0
+rm const 1 from bn 2
+rm const 5 from bn 2
+rm const 6 from bn 3
+rm const 1 from bn 3
+rm const 5 from bn 3
+rm const 6 from bn 4
+rm const 1 from bn 4
+rm const 5 from bn 4
+rm const 6 from bn 6
+rm const 1 from bn 6
+rm const 5 from bn 6
+rm const 6 from bn 8
+rm const 1 from bn 8
+rm const 5 from bn 8
+rm const 7 from bn 0
+rm const 7 from bn 2
+rm const 7 from bn 3
+rm const 5 from bn 4
+rm const 7 from bn 4
+rm const 5 from bn 6
+rm const 7 from bn 6
+rm const 5 from bn 7
+rm const 7 from bn 7
+rm const 5 from bn 8
+rm const 7 from bn 8
+rm const 4 from bn 0
+rm const 4 from bn 1
+rm const 1 from bn 1
+rm const 7 from bn 3
+rm const 4 from bn 3
+rm const 7 from bn 7
+rm const 4 from bn 7
+rm const 5 from bn 7
+rm const 1 from bn 7
+rm const 7 from bn 8
+rm const 4 from bn 8
+rm const 5 from bn 8
+rm const 1 from bn 8
+rm const 4 from bn 0
+rm const 4 from bn 1
+rm const 9 from bn 3
+rm const 9 from bn 5
+rm const 9 from bn 6
+rm const 4 from bn 6
+rm const 9 from bn 7
+rm const 4 from bn 7
+rm const 9 from bn 8
+rm const 4 from bn 8
+rm const 4 from bn 0
+rm const 7 from bn 0
+rm const 4 from bn 1
+rm const 4 from bn 2
+rm const 7 from bn 2
+rm const 4 from bn 7
+rm const 5 from bn 7
+rm const 7 from bn 7
+rm const 4 from bn 8
+rm const 5 from bn 8
+rm const 7 from bn 8
+rm const 3 from bn 0
+rm const 3 from bn 1
+rm const 3 from bn 2
+rm const 3 from bn 4
+rm const 3 from bn 5
+rm const 7 from bn 6
+rm const 3 from bn 6
+rm const 7 from bn 8
+rm const 3 from bn 8
+rm const 7 from bn 0
+rm const 5 from bn 0
+rm const 7 from bn 1
+rm const 5 from bn 1
+rm const 5 from bn 2
+rm const 7 from bn 6
+rm const 5 from bn 6
+rm const 7 from bn 7
+rm const 5 from bn 7
+rm const 7 from bn 8
+rm const 5 from bn 8
+rm const 1 from bn 0
+rm const 3 from bn 0
+rm const 1 from bn 1
+rm const 3 from bn 1
+rm const 3 from bn 4
+rm const 3 from bn 5
+rm const 1 from bn 6
+rm const 1 from bn 8
+rm const 1 from bn 0
+rm const 9 from bn 0
+rm const 1 from bn 1
+rm const 8 from bn 1
+rm const 1 from bn 3
+rm const 9 from bn 3
+rm const 1 from bn 4
+rm const 8 from bn 4
+rm const 1 from bn 6
+rm const 9 from bn 6
+rm const 9 from bn 8
+rm const 7 from bn 0
+rm const 4 from bn 0
+rm const 7 from bn 1
+rm const 4 from bn 1
+rm const 2 from bn 3
+rm const 4 from bn 3
+rm const 2 from bn 5
+rm const 4 from bn 5
+rm const 2 from bn 6
+rm const 7 from bn 6
+rm const 4 from bn 6
+rm const 2 from bn 7
+rm const 7 from bn 7
+rm const 4 from bn 7
+rm const 6 from bn 0
+rm const 6 from bn 1
+rm const 8 from bn 3
+rm const 1 from bn 4
+rm const 6 from bn 4
+rm const 8 from bn 4
+rm const 1 from bn 5
+rm const 6 from bn 5
+rm const 8 from bn 5
+rm const 1 from bn 6
+rm const 6 from bn 6
+rm const 8 from bn 6
+rm const 5 from bn 1
+rm const 5 from bn 4
+rm const 5 from bn 7
+rm const 3 from bn 0
+rm const 6 from bn 0
+rm const 1 from bn 0
+rm const 1 from bn 1
+rm const 3 from bn 2
+rm const 6 from bn 2
+rm const 1 from bn 2
+rm const 6 from bn 3
+rm const 1 from bn 3
+rm const 6 from bn 4
+rm const 1 from bn 4
+rm const 3 from bn 8
+rm const 6 from bn 8
+rm const 1 from bn 8
+rm const 5 from bn 0
+rm const 8 from bn 4
+rm const 1 from bn 4
+rm const 8 from bn 5
+rm const 1 from bn 5
+rm const 8 from bn 6
+rm const 5 from bn 6
+rm const 1 from bn 6
+rm const 8 from bn 8
+rm const 5 from bn 8
+rm const 1 from bn 8
+rm const 6 from bn 3
+rm const 6 from bn 5
+rm const 4 from bn 5
+rm const 8 from bn 7
+rm const 4 from bn 7
+rm const 6 from bn 8
+rm const 8 from bn 8
+rm const 1 from bn 8
+rm const 4 from bn 8
+rm const 8 from bn 1
+rm const 8 from bn 2
+rm const 8 from bn 3
+rm const 8 from bn 4
+rm const 8 from bn 5
+rm const 4 from bn 0
+rm const 4 from bn 2
+rm const 9 from bn 3
+rm const 4 from bn 3
+rm const 9 from bn 5
+rm const 4 from bn 5
+rm const 9 from bn 7
+rm const 9 from bn 8
